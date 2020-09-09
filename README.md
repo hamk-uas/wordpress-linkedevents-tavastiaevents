@@ -192,6 +192,6 @@ Example theme can be found from the GitHub repository [wordpress-linkedevents-ex
 
 ### Custom theme
 
-    * Sample theme and install guide [Theme](https://github.com/hamk-uas/wordpress-linkedevents-event-list-theme)
+  Sample theme and install guide [Theme](https://github.com/hamk-uas/wordpress-linkedevents-event-list-theme)
 
 
