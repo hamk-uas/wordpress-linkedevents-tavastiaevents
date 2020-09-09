@@ -179,5 +179,19 @@ events.php can contain any php code. Here is a small example that renders event 
 
 Example theme can be found from the GitHub repository [wordpress-linkedevents-example-theme](https://github.com/Metatavu/wordpress-linkedevents-example-theme)
 
+## Tavastia Events
+
+### Installation
+
+    1. To install the plugin download the project as a Zip file or clone the repository to your local environment
+    2. Install the Zip file through Wordpress plugin install or upload the cloned repository folder to the Wordpress /wp-content/plugins directory
+
+### Settings
+
+    * Under Wordpress Settings -> Linked Events, add Tavastia Events api address to the API URL field https://api.tavastiaevents.fi/v1 Other fields are not used. 
+
+### Custom theme
+
+    * Sample theme and install guide [Theme](https://github.com/hamk-uas/wordpress-linkedevents-event-list-theme)
 
 
